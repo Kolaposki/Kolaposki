@@ -15,7 +15,7 @@ Please feel free to clone projects and raise issues if you think something could
   [![HitCount](http://hits.dwyl.com/kolaposki/kolaposki.svg)]()
 
   <br>
-  <a target="_blank" href="https://twitter.com/KolapoOshodi"><img src="https://cdn3.iconfinder.com/data/icons/social-media-circle/512/circle-twitter-512.png" /></a>
+  <a target="_blank" href="https://twitter.com/KolapoOshodi"><img src="https://cdn3.iconfinder.com/data/icons/social-media-circle/512/circle-twitter-512.png" height='64px' width='64px' /></a>
 </div>
 
 <!--
