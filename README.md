@@ -1,5 +1,24 @@
 ### Hi there 👋
 
+
+You have finally discovered my Github profile. <br>
+Please feel free to clone projects and raise issues if you think something could be better.
+
+
+- 🔭 I’m currently working on Woocontacts
+- 🌱 I’m currently learning Vue.js
+- 👯 I’m looking to collaborate on Django & Vue
+- 😄 Pronouns: He/Him
+
+<div align="center">
+
+  [![HitCount](http://hits.dwyl.com/kolaposki/kolaposki.svg)]()
+
+  <i>Follow me:</i><br>
+  <a target="_blank" href="https://twitter.com/KolapoOshodi"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</div>
+
+<!--
 <div align="center" width="50">
 
 <img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
@@ -30,18 +49,4 @@ I'm a end developer and technical writer based in France.
 <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   
 </div>
-
-<!--
-**Kolaposki/Kolaposki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
