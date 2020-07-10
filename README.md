@@ -14,8 +14,8 @@ Please feel free to clone projects and raise issues if you think something could
 
   [![HitCount](http://hits.dwyl.com/kolaposki/kolaposki.svg)]()
 
-  <i>Follow me:</i><br>
-  <a target="_blank" href="https://twitter.com/KolapoOshodi"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <br>
+  <a target="_blank" href="https://twitter.com/KolapoOshodi"><img src="https://cdn3.iconfinder.com/data/icons/social-media-circle/512/circle-twitter-512.png" /></a>
 </div>
 
 <!--
