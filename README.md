@@ -10,6 +10,11 @@ Please feel free to clone projects and raise issues if you think something could
 - 👯 I’m looking to collaborate on Django & Vue
 - 😄 Pronouns: He/Him
 
+These are the current stats of my profile, the image was generated the moment you visited this site :scream:.
+
+ ![Kolaposki Stats](https://gitlang.mrmarble.dev/kolaposki?format=svg&background=%23eee "Kolaposki languages stats")
+
+
 <div align="center">
 
   [![HitCount](http://hits.dwyl.com/kolaposki/kolaposki.svg)]()
