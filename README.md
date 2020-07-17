@@ -11,8 +11,10 @@ Please feel free to clone projects and raise issues if you think something could
 - 😄 Pronouns: He/Him
 
 ⚡ Fun fact: These are the languages on my public repositories
+<br>
  ![Kolaposki Stats](https://gitlang.mrmarble.dev/kolaposki?format=svg&background=%23eee "Kolaposki languages stats")
 
+<br>
 <div align="center">
 
   [![HitCount](http://hits.dwyl.com/kolaposki/kolaposki.svg)]()
