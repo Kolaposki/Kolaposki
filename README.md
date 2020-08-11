@@ -4,6 +4,7 @@
 You have finally discovered my Github profile. <br>
 Please feel free to clone projects and raise issues if you think something could be better.
 
+ My name is Oshodi Kolapo.😀, I'm a self-taught Python/Django Developer.
 
 - 🔭 I’m currently working on Woocontacts
 - 🌱 I’m currently learning Vue.js
@@ -11,48 +12,10 @@ Please feel free to clone projects and raise issues if you think something could
 - 😄 Pronouns: He/Him
 
 ⚡ Fun fact: These are the languages on my public repositories
-<br>
- ![Kolaposki Stats](https://gitlang.mrmarble.dev/kolaposki?format=svg&background=%23eee "Kolaposki languages stats")
 
-<br>
-<br>
-<div align="center">
+![Kolaposki Stats](https://gitlang.mrmarble.dev/kolaposki?format=svg&background=%23eee "Kolaposki languages stats")
 
-  [![HitCount](http://hits.dwyl.com/kolaposki/kolaposki.svg)]()
-
-  <br>
-  <a target="_blank" href="https://twitter.com/KolapoOshodi"><img src="https://cdn3.iconfinder.com/data/icons/social-media-circle/512/circle-twitter-512.png" height='64px' width='64px' /></a>
-</div>
-
-<!--
-<div align="center" width="50">
-
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
-
-</div>
-
-You have finally discovered my Github profile. <br>
-Please feel free to clone projects and raise issues if you think something could be better.
-
-Happy Coding! 😊
-
-I'm a end developer and technical writer based in France. 
-
-<div align="center">
-
-### 🚀 Skills
-![forthebadge](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python)
-
-  [![HitCount](http://hits.dwyl.com/kolaposki/kolaposki.svg)]()
-
-### 👨👩 Social
-
-[!<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](instagram.com/kolaposki)
-
-
-[!<img src="https://img.shields.io/badge/twitter-%23E4405F.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](twitter.com/kolaposki)
-
-<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  
-</div>
--->
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:oshodikolapo@gmail.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/kolapoOshodi?label=kolaposki&color=14171A&labelColor=37474f&logoColor=4fc3f7)](https://twitter.com/kolapoOshodi/)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/oshodi-kolapo-6a4456198/)
+[![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/leoposki/)
