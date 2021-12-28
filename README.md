@@ -2,29 +2,51 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Akash chowrasia</h1>
-<h3 align="center">Software Engineer | Technical Content Writer | Data Analysis Enthusiast</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kolapo Oshodi</h1>
+<h3 align="center">Fullstack Developer | Technical Content Writer | Data Analysis Enthusiast</h3>
 
-### Hi there 👋
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
+<p align="center">
 
-You have finally discovered my Github profile. <br>
-Please feel free to clone projects and raise issues if you think something could be better.
+   <em>
+    This is ME, a passionate self-taught full stack web developer and a freelance software engineer from Nigeria <img height="15" width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Nigeria_%28state%29.svg/315px-Flag_of_Nigeria_%28state%29.svg.png">. <br>
+    A budding <b>Full-Stack Software Developer</b> and a <b>Competitive Programming Enthusiast</b>&nbsp,<br>who is <b>obsessed</b>
+    with the idea of <b>improving</b> himself and building solutions for users.
+  
+</p>
 
- My name is Oshodi Kolapo.😀, I'm a self-taught Fullstack Developer.
+
+<br/>
+
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
+
 
 - 🔭 I’m currently working on [Onebooky](https://onebooky.io) and [Woocontacts](https://woocontacts.co) 
-- 🌱 I’m currently learning Vue.js
-- 👯 I’m looking to collaborate on Python/Django & Javascript/Vue
+- 🌱 I’m currently learning Web3 technologies
+- 👯 I’m looking to collaborate on any Open-Source Project mostly on Python/Django or Javascript/Vue
 - 😄 Pronouns: He/Him
+- Ask me about anything, I am happy to help 💬, only if the ball is in my court!😉
 
-⚡ Fun fact: These are the languages on my public repositories
+<br>
+
+**⚡ Languages and tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kolaposki&show_icons=true&locale=en&layout=compact" alt="kolaposki" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kolaposki&show_icons=true&locale=en" alt="kolaposki" width="410" /></p>
 
+<br/>
+
+**Get in touch** 
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:oshodikolapo@gmail.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/kolapoOshodi?label=kolaposki&color=14171A&labelColor=37474f&logoColor=4fc3f7)](https://twitter.com/kolapoOshodi/)
