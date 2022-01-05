@@ -9,7 +9,7 @@
 <p align="center">
 
    <em>
-    This is ME, a passionate self-taught full stack web developer and a freelance software engineer from Nigeria <img height="15" width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Nigeria_%28state%29.svg/315px-Flag_of_Nigeria_%28state%29.svg.png">. <br>
+    This is ME, a passionate self-taught full stack web developer and a freelance software engineer. <br>
     A budding <b>Full-Stack Software Developer</b> and a <b>Competitive Programming Enthusiast</b>&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and building solutions for users.
   
