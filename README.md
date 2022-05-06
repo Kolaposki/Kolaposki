@@ -51,4 +51,4 @@
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:oshodikolapo@gmail.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/kolapoOshodi?label=kolaposki&color=14171A&labelColor=37474f&logoColor=4fc3f7)](https://twitter.com/kolapoOshodi/)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/oshodi-kolapo-6a4456198/)
-[![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/leoposki/)
+[![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/leo_poski/)
