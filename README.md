@@ -21,7 +21,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
 
-- 🔭 I’m currently working on [Shopriqa](https://shopriqa.com), [Onebooky](https://onebooky.io) and [Woocontacts](https://woocontacts.co) 
+- 🔭 I’m currently working on [Shopriqa](https://shopriqa.com), [Onebooky](https://onebooky.co) and [Woocontacts](https://woocontacts.co) 
 - 🌱 I’m currently learning Web3 technologies
 - 👯 I’m looking to collaborate on any Open-Source Project mostly on Python/Django or Javascript/Vue
 - 😄 Pronouns: He/Him
