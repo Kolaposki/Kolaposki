@@ -26,6 +26,7 @@
 - 👯 I’m looking to collaborate on any Open-Source Project mostly on Python/Django or Javascript/Vue
 - 😄 Pronouns: He/Him
 - Ask me about anything, I am happy to help 💬, only if the ball is in my court!😉
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 <br>
 
