@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kolapo Oshodi</h1>
-<h3 align="center">Fullstack Developer | Technical Content Writer | Data Analysis Enthusiast</h3>
+<h3 align="center">Fullstack Developer |AI Developer</h3>
 
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 
 - 🔭 I’m currently working on [Shopriqa](https://shopriqa.com), [Onebooky](https://onebooky.co) and [Woocontacts](https://woocontacts.co) 
-- 🌱 I’m currently learning Web3 technologies
+- 🌱 I’m currently learning machine learning
 - 👯 I’m looking to collaborate on any Open-Source Project mostly on Python/Django or Javascript/Vue
 - 😄 Pronouns: He/Him
 - Ask me about anything, I am happy to help 💬, only if the ball is in my court!😉
