@@ -21,8 +21,8 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
 
-- 🔭 I’m currently working on [Shopriqa](https://shopriqa.com), [Onebooky](https://onebooky.co) and [Woocontacts](https://woocontacts.co) 
-- 🌱 I’m currently learning machine learning
+- 🔭 I’m currently working on [VoixyAI](https://voixyai.io), [TrendyBytes](https://trendybytesai.tech/) and [Woocontacts](https://woocontacts.co) 
+- 🌱 I’m currently learning ML/AI
 - 👯 I’m looking to collaborate on any Open-Source Project mostly on Python/Django or Javascript/Vue
 - 😄 Pronouns: He/Him
 - Ask me about anything, I am happy to help 💬, only if the ball is in my court!😉
@@ -52,7 +52,6 @@
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:oshodikolapo@gmail.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/kolapoOshodi?label=kolaposki&color=14171A&labelColor=37474f&logoColor=4fc3f7)](https://twitter.com/kolapoOshodi/)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/kolapo-oshodi-6a4456198/)
-[![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/leo_poski/)
 
 <p align="center"> 
   <b>Visitor count</b><br>
