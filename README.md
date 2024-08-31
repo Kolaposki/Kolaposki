@@ -12,7 +12,7 @@
     This is ME, a passionate self-taught full stack web developer and a freelance software engineer. <br>
     A budding <b>Full-Stack Software Developer</b> and a <b>Competitive Programming Enthusiast</b>&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and building solutions for users.
-  
+   </em>
 </p>
 
 
@@ -21,9 +21,9 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
 
-- 🔭 I’m currently working on [VoixyAI](https://voixyai.io), [TrendyBytes](https://trendybytesai.tech/) and [Woocontacts](https://woocontacts.co) 
+- 🔭 I’m currently working on [LeaduxAI](https://www.leaduxai.io/), [VoixyAI](https://voixyai.io), [TrendyBytes](https://trendybytesai.tech/) and [Woocontacts](https://woocontacts.co) 
 - 🌱 I’m currently learning ML/AI
-- 👯 I’m looking to collaborate on any Open-Source Project mostly on Python/Django or Javascript/Vue
+- 👯 I’m looking to collaborate on any Open-Source Project mostly on Python/Django or Javascript/Vue and any cool AI projects.
 - 😄 Pronouns: He/Him
 - Ask me about anything, I am happy to help 💬, only if the ball is in my court!😉
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
