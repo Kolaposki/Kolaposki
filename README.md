@@ -21,7 +21,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
 
-- 🔭 I’m currently working on [LeaduxAI](https://www.leaduxai.io/), [VoixyAI](https://voixyai.io), [TrendyBytes](https://trendybytesai.tech/) and [Woocontacts](https://woocontacts.co) 
+- 🔭 I’m currently working on [Demosmith](https://www.demosmith.ai/), [LeaduxAI](https://www.leaduxai.io/), [VoixyAI](https://voixy.ai), [TrendyBytes](https://trendybytesai.tech/) and [Woocontacts](https://woocontacts.co) 
 - 🌱 I’m currently learning ML/AI
 - 👯 I’m looking to collaborate on any Open-Source Project mostly on Python/Django or Javascript/Vue and any cool AI projects.
 - 😄 Pronouns: He/Him
